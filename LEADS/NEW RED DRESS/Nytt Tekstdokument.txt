@@ -1,0 +1,21 @@
+LIKELY:
+PALM SPRINGS
+HANFORD
+
+POSSIBLE
+ANAHEIM
+BARSTOW
+ORANGE COUNTY
+
+Rivers:
+Tahquitz Creek		Cedar Springs		Near River
+San Jacinto River	Pine Cove		Near River
+Kings River		Sequoia			Near River
+Tulare Lake
+Santa Ana River		Cypress
+Mojave River		Joshua Tree
+Salt Creek
+Santa Ana River
+San Juan Creek		Oak Grove
+
+(Riverside/Redlands)
